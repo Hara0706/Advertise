@@ -1,0 +1,35 @@
+/* Navigation Bar  */
+#item
+{
+    margin:5px 0px 10px 80px;
+}
+/* Banner Section  */
+#banner h1
+{
+    margin:56px 0px 0px 400px;
+}
+
+/* Portfolio Section  */
+#portfolio h1
+{
+    margin:140px 0px 0px 500px;
+}
+#portfolio img
+ {
+    margin: 0px 0px 0px 430px;
+ }
+#portfolio ul li
+{
+    margin:-140px 0px 0px 120px;
+}
+/* About Us  */
+#about ul li
+{
+    margin:130px 0px 40px 100px;
+}
+
+/* Contact Section  */
+#contact h1
+{
+    margin:1050px 0px 0px 550px;
+}
